@@ -1,0 +1,12 @@
+.claude/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Office temp files
+~$*
+
+# Python
+__pycache__/
+.venv/
+venv/
